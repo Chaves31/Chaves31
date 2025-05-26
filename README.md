@@ -1,4 +1,4 @@
-👋 Hello! / ¡Hola!
+👋 Hello!
 
 I'm a passionate and responsible Full Stack Developer with a strong interest in .NET technologies, web development, and front-end design.
 

@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Chaves31/Chaves31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Hello! / ¡Hola!
+##👋 Hello! / ¡Hola!
 
 I'm a passionate and responsible Full Stack Developer with a strong interest in .NET technologies, web development, and front-end design.
 
@@ -54,3 +49,5 @@ Control de Versiones y Despliegue: Git, GitHub, NPM, Composer, ViteJS, Netlify, 
 CMS: WordPress
 
 🚀 Estoy listo para seguir aprendiendo y aportar en proyectos reales. Actualmente me encuentro disponible y en búsqueda activa de una oportunidad laboral donde pueda crecer profesionalmente y contribuir al logro de objetivos con tecnología.
+
+

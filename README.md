@@ -7,8 +7,11 @@ I’m currently in my final year of the Bachelor’s Degree in Computer Science 
 
 University Projects:
 
-Beach S.A (.NET, C#, .NET MVC): 
-Beach S.A is a hotel management platform developed as a group project. It allows administrative staff to register clients, manage room availability, and handle reservations efficiently through an organized interface. The system streamlines internal operations for small to mid-sized hospitality businesses. http://sitiehotelbeachsa.somee.com/
+HotelBeachSA (.NET, C#, .NET MVC): 
+Beach S.A. is a hotel management platform developed as a university project. It allows administrative staff to register guests, manage room availability, and efficiently manage reservations through a streamlined interface. The system streamlines the internal operations of small and medium-sized hotel businesses. http://sitiehotelbeachsa.somee.com/
+
+API Web HotelBeachSA (.NET, C#, .NET MVC): 
+A web API was created using .NET and the MVC (Model-View-Controller) pattern to support platform operations. This API allows the system to save, update, and retrieve data related to customers, packages, and reservations. The MVC structure facilitates the separation of responsibilities in the code, making it easier to maintain and scale. http://www.apiwebhotel.somee.com - http://www.apiwebhotel.somee.com/Usuarios/Listado
 
 TuLook (PHP, Laravel, React, JavaScript): 
 TuLook is a web platform created in a team setting that connects freelance hairstylists and barbers with clients. The platform allows professionals to create personalized profiles, list services, and manage appointment schedules. Clients can browse service providers, check availability, and book appointments online by selecting a preferred date and time. https://tulook.vercel.app/
